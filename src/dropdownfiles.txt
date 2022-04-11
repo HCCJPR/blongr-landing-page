@@ -1,0 +1,20 @@
+ <div class="drop-down-1">
+  <a  href="#">Overview</a>
+  <a href="#">Pricing</a>
+  <a href="#">Marketplace</a>
+  <a href="#">Features</a>
+  <a href="#">Integrations</a>
+      </div>
+      
+ <div class="drop-down-2">
+  <a href="#">About</a>
+  <a href="#">Team</a>
+  <a href="#">Blog</a>
+  <a href="#">Careers</a>
+      </div>
+
+<div class="drop-down-3">
+  <a href="#">Contact</a>
+  <a href="#">Newsletter</a>
+  <a href="#">LinkedIn</a>
+      </div>
