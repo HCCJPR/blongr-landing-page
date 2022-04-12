@@ -34,10 +34,31 @@ nav {
 .drop-down-1,.drop-down-2 , .drop-down-3{
 display: none;
 }
-.links-ul {
-    width:80% ;
+
+.nav-ul {
     display: flex;
-    flex-direction: row;
-    align-items: center;
     justify-content: space-around;
+    align-items: top;
+    flex-direction: row;
+}
+
+.links-ul {
+    width:50rem ;
+    display: flex;
+    list-style: none;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.container-grid2 {
+display: flex;
+align-items: top;
+justify-content: space-around;
+}
+.container-grid2 button {
+    width: 4rem;
+    height: 2rem;
+    border-radius: 40%;
+    background-color: red ;
+    border: none;
 }
